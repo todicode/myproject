@@ -1,0 +1,2 @@
+ls: cannot access 'file_khong_ton_tai': No such file or directory
+data.txt

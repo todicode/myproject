@@ -1,0 +1,6 @@
+2026-06-20 10:00:01 INFO User login successful
+2026-06-20 10:00:05 WARN High memory usage 75%
+2026-06-20 10:00:10 ERROR Database connection failed
+2026-06-20 10:00:15 INFO Retry connection
+2026-06-20 10:00:20 ERROR Timeout after 30s
+2026-06-20 10:00:25 INFO Connection restored
